@@ -5,3 +5,9 @@ yt-dlp
 whisper
 torch
 pyautogui
+gc
+torch
+re
+json
+os
+time
