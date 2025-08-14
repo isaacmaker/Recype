@@ -1,0 +1,7 @@
+flask
+requests
+ollama
+yt-dlp
+whisper
+torch
+pyautogui
